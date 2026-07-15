@@ -1,0 +1,6 @@
+{
+  "name": "Chama Garçom",
+  "description": "Sistema completo para restaurantes gerenciarem chamados de clientes em tempo real por QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
